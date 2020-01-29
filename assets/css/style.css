@@ -1,0 +1,55 @@
+@import "reset.css";
+
+.userCardContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 30px auto;
+}
+
+.userCard {
+    text-align: center;
+    overflow: hidden;
+    width: 200px;
+    height: 300px;
+    background-color: darkgrey;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.cardHeader {
+    width: 100%;
+    height: 80px;
+
+}
+
+.cardHeader > img {
+    width: 100%;
+}
+
+.userIcon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    border-radius: 40px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.userCard > h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    color: #fff;
+}
+
+.userIcon > img {
+    width: 100%;
+}
+
+.userCard > p {
+    color: #fff;
+}

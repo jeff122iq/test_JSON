@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fceb0d8a-dee3-44c4-848a-bfc7508efa5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X4BTCFCBUZraWBs90Cp2g1pokz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fceb0d8a-dee3-44c4-848a-bfc7508efa5d" name="Default Changelist" comment="" />
+      <created>1580295491112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580295491112</updated>
+      <workItem from="1580295497005" duration="9483000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="289" y="26" key="#Project_Structure" timestamp="1580295528297">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="289" y="26" key="#Project_Structure/0.0.1366.732@0.0.1366.732" timestamp="1580295528297" />
+    <state x="421" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580305080939">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="421" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.732@0.0.1366.732" timestamp="1580305080939" />
+    <state x="190" y="0" key="SettingsEditor" timestamp="1580297841665">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="190" y="0" key="SettingsEditor/0.0.1366.732@0.0.1366.732" timestamp="1580297841665" />
+  </component>
+</project>
