@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="./assets/css/reset.css ">
     <link rel="stylesheet" href="./assets/css/style.css">
     <title>Title</title>
 </head>
@@ -48,6 +47,12 @@
     ];
     const userListElem = document.getElementById('usersList');
 
+    users.forEach(
+        user => {
+            userListElem.appendChild(createUserListItemElem(user))
+        }
+    );
+
     function createUserListItemElem(user) {
         const userListItemElem = document.createElement('li');
         const userCardContainerElem = document.createElement('div');
@@ -57,12 +62,17 @@
         const headerCardElem = document.createElement('header');
         headerCardElem.classList.add('cardHeader');
         const headerPictureElem = document.createElement('img');
-
+        headerPictureElem.setAttribute('src', "./image/headerPicture.jpg");
         userListItemElem.appendChild(userCardContainerElem);
+        const userNameSurnameElem = document.createElement('h1');
 
+        userNameSurnameElem.innerText = `${user.name} ${user.surname}`;
+        userListItemElem.appendChild(userCardContainerElem);
+        userListItemElem.appendChild(userNameSurnameElem);
+        userListItemElem.appendChild(headerCardElem);
 
         return userListItemElem;
-            }
+    }
 
 </script>
 </body>
